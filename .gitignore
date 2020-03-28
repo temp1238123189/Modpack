@@ -1,0 +1,9 @@
+saves/
+logs/
+tv-cache/
+versions/
+*.logs
+launcher-log.txt
+usercache.json
+usernamecache.json
+launcher_profiles.json

@@ -1,0 +1,26 @@
+
+//; 
+auto_convert_profiles=false
+
+//; 
+generate_travel_book_export=false
+
+//; 
+travel_book_learning=true
+
+//; 
+generate_help_data=false
+
+//; 
+ignore_resource_cost=false
+
+//Unique random identifier to count unique players if statistics are enabled
+random_uid=3454032821638373376
+
+//Advancement completed for anonymous statistics
+advancements_creative=marcopolo,magellan
+
+//Advancement completed for anonymous statistics
+advancements_survival=
+
+validation=346190886
